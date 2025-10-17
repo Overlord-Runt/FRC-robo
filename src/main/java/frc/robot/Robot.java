@@ -4,12 +4,10 @@
 
 package frc.robot;
 
-import edu.wpi.first.util.sendable.SendableRegistry;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.TimedRobot;
-import edu.wpi.first.wpilibj.drive.DifferentialDrive;
-import edu.wpi.first.wpilibj2.command.button.Trigger;
 import edu.wpi.first.wpilibj.motorcontrol.Talon;
+
 
 /**
  * This is a demo program showing the use of the DifferentialDrive class, specifically it contains
